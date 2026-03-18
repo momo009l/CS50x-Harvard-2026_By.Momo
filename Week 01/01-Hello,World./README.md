@@ -113,4 +113,4 @@
 
 ### ⚙️ เจาะลึกในส่วน `int main(void)`
 
-### `int` - Return Type
+### `int` - Return Type ของฟังก์ชัน `main`
