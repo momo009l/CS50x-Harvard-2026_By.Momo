@@ -208,7 +208,7 @@ CS50 teaches you how to think in a structured way, like a real problem-solver. T
   * [Fiftyville](/Week%2007/03-Fiftyville)
 
 
-📔 [สัปดาห์ 8 :  HTML, CSS, JavaScript](/Week%2008)
+📔 [Week 8 :  HTML, CSS, JavaScript](/Week%2008)
   * [Trivia](/Week%2008/01-Trivia)
   * [Homepage](/Week%2008/02-Homepage)
 
